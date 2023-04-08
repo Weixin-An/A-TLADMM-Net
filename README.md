@@ -31,12 +31,6 @@ The prerequisites are detailed in 'requirements.txt'.
 
 
 
-### Synthetic Data
-
-This part will be completed soon.
-
-
-
 ### Image Denoising
 
 To train and test our TLADMM and A-TLADMM algorithms on image denoising , please use the following command:
@@ -71,12 +65,6 @@ To evaluate TLADMM or A-TLADMM on set11, run the following:
 ```
 python eval.py
 ```
-
-
-
-### Natural Image Compressive Sensing
-
-This part will be completed soon.
 
 
 
@@ -167,8 +155,4 @@ def save_spectrogram(wav_path):
 is used to extract spectrograms, and results are saved into folder `results_speech_admm`.
 
 
-
-### MRI Compressive Sensing
-
-This part will be completed soon.
 
