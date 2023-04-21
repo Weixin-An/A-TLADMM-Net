@@ -1,19 +1,6 @@
 # A-TLADMM-Net
 Accelerated Unfolded Linearized ADMM Networks Inspired by Differential Equations.
 
-## Citations
-Please cite this conference paper in your publications if this code helps your research:
-
-```
-@inproceedings{an2022numerical,
-  title={A Numerical DEs Perspective on Unfolded Linearized ADMM Networks for Inverse Problems},
-  author={An, Weixin and Yue, Yingjie and Liu, Yuanyuan and Shang, Fanhua and Liu, Hongying},
-  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
-  pages={5065--5073},
-  year={2022}
-}
-```
-
 ## Getting Started
 This repository will contain:
 1. Synthetic Data `\Synthetic` directory  for the synthetic data experiment;
